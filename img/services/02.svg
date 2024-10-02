@@ -1,13 +1,7 @@
-<svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_5_20)">
-<path opacity="0.06" d="M54.9787 0H21.0213C9.41155 0 0 9.41155 0 21.0213V54.9787C0 66.5885 9.41155 76 21.0213 76H54.9787C66.5885 76 76 66.5885 76 54.9787V21.0213C76 9.41155 66.5885 0 54.9787 0Z" fill="#F6CA4F"/>
-<path d="M38.0001 63.8788C52.2925 63.8788 63.8788 52.2925 63.8788 38.0001C63.8788 23.7076 52.2925 12.1213 38.0001 12.1213C23.7076 12.1213 12.1213 23.7076 12.1213 38.0001C12.1213 52.2925 23.7076 63.8788 38.0001 63.8788Z" fill="#FF6D35"/>
-<path d="M47.5505 49.6729H28.4495C26.1149 49.6729 24.2048 47.7628 24.2048 45.4282V30.5718C24.2048 28.2373 26.1149 26.3271 28.4495 26.3271H47.5505C49.8851 26.3271 51.7952 28.2373 51.7952 30.5718V45.4282C51.7952 47.7628 49.8851 49.6729 47.5505 49.6729Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M24.2048 31.6329L38 40.1223L51.7952 31.6329" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<defs>
-<clipPath id="clip0_5_20">
-<rect width="76" height="76" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#ff7a35" height="800px" width="800px" version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" xml:space="preserve">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <path d="M23,28L23,28c-1.1,0-2.1-0.7-2.5-1.8c0-0.1,0-0.2-0.1-0.2h-8.9c0,0.1,0,0.2-0.1,0.2C11.1,27.3,10.1,28,9,28h0 c-0.6,0-1,0.4-1,1s0.4,1,1,1h14c0.6,0,1-0.4,1-1S23.6,28,23,28z"/> <g> <path d="M11,13v-2c-1.7,0-3,1.3-3,3s1.3,3,3,3s3-1.3,3-3h-2C11.4,14,11,13.6,11,13z"/> <path d="M27,3H5C3.3,3,2,4.3,2,6v15c0,1.7,1.3,3,3,3h6.9h8.1H27c1.7,0,3-1.3,3-3V6C30,4.3,28.7,3,27,3z M16,14c0,2.8-2.2,5-5,5 s-5-2.2-5-5s2.2-5,5-5c0-0.6,0.4-1,1-1c2.8,0,5,2.2,5,5C17,13.6,16.6,14,16,14z M25,16h-2c-0.6,0-1-0.4-1-1s0.4-1,1-1h2 c0.6,0,1,0.4,1,1S25.6,16,25,16z M25,13h-5c-0.6,0-1-0.4-1-1s0.4-1,1-1h5c0.6,0,1,0.4,1,1S25.6,13,25,13z"/> </g> </g>
+</svg>
