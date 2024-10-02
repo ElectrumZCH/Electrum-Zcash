@@ -948,13 +948,16 @@ code {
   color: #ffb55c
 }
 .disclaimer {
-  padding-block: 4.0625rem 3.75rem
+  padding-block: 11.25rem 3.75rem
 }
 .disclaimer__container {
   color: #9c9c9c
 }
 .disclaimer__article:not(:last-child) {
   margin-bottom: 1.875rem
+}
+.disclaimer__title img {
+  width: 3.75rem
 }
 .disclaimer__text {
   line-height: 1.5
